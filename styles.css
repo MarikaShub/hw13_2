@@ -1,0 +1,12 @@
+
+.container {
+  text-align: center;
+}
+input, button {
+    border-radius: 15px;
+    height: 2rem;
+    width: 12rem;
+}
+.error_message {
+  color: red;
+}
